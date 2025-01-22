@@ -15,7 +15,7 @@
 
 - Project title : dugsnotes_astro_ssr_by_traversymedia
 - Related URL : https://youtu.be/XoIHKO6AkoM?si=aELJf5XSOi89W_Um
-- Period : Jan 16 2025 - In Progress
+- Period : Jan 16 2025 - Jan 23 2025
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
